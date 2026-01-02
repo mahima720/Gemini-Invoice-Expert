@@ -2,6 +2,9 @@
 
 A specialized Multi-modal application that transforms invoices into searchable data. Using Google Gemini 2.5 Flash, this tool acts as an expert document analyzer to extract dates, line items, totals, and tax information from uploaded invoice images.
 
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-invoice-expert.streamlit.app/)
+
 ![UI](/images/image1.png)
 
 ## Features
